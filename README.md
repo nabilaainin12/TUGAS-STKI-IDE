@@ -25,8 +25,3 @@ Repository ini dibuat sebagai dokumentasi dan pengumpulan tugas per minggu.
 - Scikit-learn
 - Pandas
 - NumPy
-
-## Catatan
-- Folder `venv` dan file hasil generate otomatis **tidak disertakan** dalam repository.
-- Dependency project dicatat menggunakan `requirements.txt` (jika diperlukan).
-
